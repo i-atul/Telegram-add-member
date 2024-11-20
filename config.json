@@ -1,0 +1,14 @@
+{
+	"group_source": "filecoin",
+	"group_target": "testingxte",
+	"api_id": 29400041,
+	"api_hash": "dc837a5d3e96d6d2XXXXXXXXX",
+	"accounts": [
+		"+9173XXXXXXXX",
+		"+9189XXXXXXXX"
+	],
+	"max_adds_per_day_per_account": 45,
+	"min_delay": 20,
+	"max_delay": 35,
+	"members_to_add": 200
+}

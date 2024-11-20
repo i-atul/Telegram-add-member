@@ -1,0 +1,45 @@
+# Session files
+sessions/
+*.session
+*.session-journal
+src/session/
+src/session/*.session
+
+# Logs
+*.log
+adding_members.log
+scraping_members.log
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+env/
+myenv/
+
+# Data files
+data/*.json
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
